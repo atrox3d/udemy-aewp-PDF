@@ -2,3 +2,5 @@ fpdf
 pandas
 openpyxl
 PyMuPDF
+# requires java jdk !!!
+tabula-py
