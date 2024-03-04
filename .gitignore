@@ -11,3 +11,5 @@ todos.txt
 out.pdf
 /output.csv
 /output.xlsx
+
+__pycache__
